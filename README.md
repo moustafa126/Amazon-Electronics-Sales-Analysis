@@ -1,4 +1,5 @@
-Project Description: Amazon Electronics Sales Analysis
+# Project Description: Amazon Electronics Sales Analysis
+
 The Amazon Electronics Sales Analysis project focuses on analyzing the sales data of electronics products on Amazon. The dataset, which is available at https://www.kaggle.com/datasets/edusanketdk/electronics, provides valuable information such as user ratings, item categories, and timestamps of sales.
 
 In this project, I utilized the dataset to extract insights and generate meaningful conclusions. Using Tableau visualization software, I created interactive dashboards to visualize the results effectively.
